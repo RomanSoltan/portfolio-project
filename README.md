@@ -1,5 +1,7 @@
-Важливі файли pullrequests-list.txt - файл для списку pull-requests. Кожен
-створює сам.
+Макет -
+https://www.figma.com/design/fww6BUe77KIm14vo9i8Agm/Portfolio?node-id=2-9&t=L6EG1difGy3GKOal-0
+
+Тrello - https://trello.com/b/g58Htnpw/portfolio-project-solo
 
 Бібліотеки
 
